@@ -1,0 +1,78 @@
+ERC report (Sat 30 Dec 2023 21:47:22 CET, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(194.3100 mm, 62.2300 mm): Symbol J2 Pin 3 [Pin_3, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(194.3100 mm, 64.7700 mm): Symbol J2 Pin 2 [Pin_2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(195.5800 mm, 86.3600 mm): Symbol J1 Pin 7 [Pin_7, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 64.7700 mm): Symbol U1 Pin 16 [PB1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 46.9900 mm): Symbol U1 Pin 6 [NRST, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 57.1500 mm): Symbol U1 Pin 3 [PC15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 54.6100 mm): Symbol U1 Pin 2 [PC14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 52.0700 mm): Symbol U1 Pin 20 [PC6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 62.2300 mm): Symbol U1 Pin 15 [PB0, Bidirectional, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error (excluded)
+    @(139.7000 mm, 46.9900 mm): Symbol U1 Pin 6 [NRST, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 80.0100 mm): Symbol U1 Pin 31 [PB7, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 82.5500 mm): Symbol U1 Pin 32 [PB8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 77.4700 mm): Symbol U1 Pin 30 [PB6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 85.0900 mm): Symbol U1 Pin 1 [PB9, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 69.8500 mm): Symbol U1 Pin 27 [PB3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 74.9300 mm): Symbol U1 Pin 29 [PB5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 72.3900 mm): Symbol U1 Pin 28 [PB4, Bidirectional, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; Severity: warning (excluded)
+    @(167.6400 mm, 46.9900 mm): Symbol U1 Pin 7 [PA0, Bidirectional, Line]
+    @(76.2000 mm, 44.4500 mm): Symbol #FLG01 Pin 1 [pwr, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(167.6400 mm, 67.3100 mm): Symbol U1 Pin 18 [PA8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(167.6400 mm, 72.3900 mm): Symbol U1 Pin 21 [PA10/NC, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(139.7000 mm, 67.3100 mm): Symbol U1 Pin 17 [PB2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(167.6400 mm, 59.6900 mm): Symbol U1 Pin 12 [PA5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(167.6400 mm, 69.8500 mm): Symbol U1 Pin 19 [PA9/NC, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error (excluded)
+    @(167.6400 mm, 85.0900 mm): Symbol U1 Pin 26 [PA15, Bidirectional, Line]
+
+ ** ERC messages: 24  Errors 23  Warnings 1
