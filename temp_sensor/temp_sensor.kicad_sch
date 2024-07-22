@@ -1867,7 +1867,7 @@
     (property "Value" "CC1101" (at 198.755 69.85 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical" (at 199.39 59.69 0)
+    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Vertical" (at 199.39 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 59.69 0)
