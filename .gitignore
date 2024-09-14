@@ -1,9 +1,5 @@
 **/*.zip
 **/fabric/*
-
-
-
-
-
+**/meta/*
 **/gerber/*
 **/*-backups/*
